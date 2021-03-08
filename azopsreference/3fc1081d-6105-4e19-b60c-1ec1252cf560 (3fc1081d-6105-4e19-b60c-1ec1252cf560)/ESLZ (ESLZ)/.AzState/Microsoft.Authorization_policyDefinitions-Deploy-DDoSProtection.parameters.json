@@ -10,7 +10,7 @@
         "Properties": {
           "Description": "Deploys an Azure DDoS Protection Standard plan",
           "DisplayName": "Deploy an Azure DDoS Protection Standard plan",
-          "Mode": "All",
+          "Mode": "Indexed",
           "Parameters": {
             "ddosName": {
               "type": "String",
